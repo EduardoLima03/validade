@@ -1,0 +1,180 @@
+{
+    "results" : [
+        {
+            "id": "be203d59-348e-4411-8f5d-28d1209eb333",
+            "ean": "7895144293080",
+            "description": "mentos gyfyttf",
+            "validity": "2022-01-23T00:00:00.000+00:00",
+            "quantity": 12,
+            "shop": "Loja 4",
+            "zone": "verde",
+            "corridor": null,
+            "registrationDate": "2022-07-28T19:08:29.53121"
+        },
+        {
+            "id": "c2ca9b7d-42c1-44f3-8e9a-f9019d703af1",
+            "ean": "7896020160069",
+            "description": "DESODORANTE PÓ PARA OS PÉS BARUEL TENYS PÉ CANFORADO FRASCO 100G",
+            "validity": "2024-10-30T00:00:00.000+00:00",
+            "quantity": 1,
+            "shop": "Loja 4",
+            "zone": "Branca",
+            "corridor": "1",
+            "registrationDate": "2022-08-02T09:52:01.298221"
+        },
+        {
+            "id": "2147292f-f207-45f3-89d7-43fe4a494e25",
+            "ean": "7897534851818",
+            "description": "SAB BAR ASSEPTGEL ANTIBAC CHA VERDE 85G",
+            "validity": "2022-09-22T00:00:00.000+00:00",
+            "quantity": 1,
+            "shop": "Loja 4",
+            "zone": "Branca",
+            "corridor": "1",
+            "registrationDate": "2022-08-02T10:33:17.803509"
+        },
+        {
+            "id": "3c115031-ba7b-4332-92df-94903a2aa0d8",
+            "ean": "095188011627",
+            "description": "BEBIDA ADOÇADA FRUTAS CÍTRICAS TAMPICO CAIXA 200ML",
+            "validity": "2022-11-10T00:00:00.000+00:00",
+            "quantity": 1,
+            "shop": "Loja 4",
+            "zone": "Branca",
+            "corridor": "6",
+            "registrationDate": "2022-08-02T12:50:01.349704"
+        },
+        {
+            "id": "12eed1c8-9e66-4707-a168-65bd215996e6",
+            "ean": "7896058596748",
+            "description": "BALA DORI REGALIZ PESCOCO GIRAFA FRAMBOESA 30G",
+            "validity": "2022-08-26T00:00:00.000+00:00",
+            "quantity": 30,
+            "shop": "Loja 4",
+            "zone": "Verde",
+            "corridor": "1",
+            "registrationDate": "2022-08-03T13:11:42.60276"
+        },
+        {
+            "id": "d11d1de7-7c71-4df8-b9eb-23a02754025a",
+            "ean": "7894900680508",
+            "description": "REFRIGERANTE LEMON FRESH SEM AÇÚCAR SPRITE GARRAFA 510ML",
+            "validity": "2022-09-11T00:00:00.000+00:00",
+            "quantity": 44,
+            "shop": "Loja 4",
+            "zone": "Verde",
+            "corridor": "1",
+            "registrationDate": "2022-08-06T18:10:12.002632"
+        },
+        {
+            "id": "5a17a608-f508-4301-b6c2-fb10f8a750ba",
+            "ean": "7896049528604",
+            "description": "teste DESODORANTE EM CREME HERBÍSSIMO 55G FRESH UNIT",
+            "validity": "2022-08-31T00:00:00.000+00:00",
+            "quantity": 1,
+            "shop": "Loja 4",
+            "zone": "Branca",
+            "corridor": "1",
+            "registrationDate": "2022-08-07T14:05:34.498935"
+        },
+        {
+            "id": "f79bf327-8b84-4c33-9a1f-3d8ca04e1207",
+            "ean": "7898929983503",
+            "description": "teste MACA PERUANA 500MG",
+            "validity": "2022-08-07T00:00:00.000+00:00",
+            "quantity": 1,
+            "shop": "Loja 4",
+            "zone": "Amarela",
+            "corridor": "1",
+            "registrationDate": "2022-08-07T14:14:11.272475"
+        },
+        {
+            "id": "6c23430c-5c47-4968-bd2a-3a29d3f0b49a",
+            "ean": "7891033722457",
+            "description": "teste NSPA DES COL BDY SPLSH F/AMEI 200ML",
+            "validity": "2022-08-07T00:00:00.000+00:00",
+            "quantity": 1,
+            "shop": "Loja 4",
+            "zone": "Azul",
+            "corridor": "1",
+            "registrationDate": "2022-08-07T14:14:44.557726"
+        },
+        {
+            "id": "f99d53bb-0aeb-4997-a758-2bfd57351882",
+            "ean": "7892840818210",
+            "description": "BATATA FRITA ONDULADA CHURRASCO ELMA CHIPS RUFFLES PACOTE 76G",
+            "validity": "2022-08-29T00:00:00.000+00:00",
+            "quantity": 16,
+            "shop": "Loja 4",
+            "zone": "Verde",
+            "corridor": "1",
+            "registrationDate": "2022-08-07T19:58:35.826225"
+        },
+        {
+            "id": "79887dcd-e789-44e4-a575-b5adc6e732e2",
+            "ean": "7892840254940",
+            "description": "BATATA FRITA ONDULADA CEBOLA E SALSA ELMA CHIPS RUFFLES PACOTE 57G",
+            "validity": "2022-09-19T00:00:00.000+00:00",
+            "quantity": 29,
+            "shop": "Loja 4",
+            "zone": "Verde",
+            "corridor": "1",
+            "registrationDate": "2022-08-07T20:00:20.420441"
+        },
+        {
+            "id": "7df6d86f-be9e-4b47-bb8e-32b4cdf9a3b7",
+            "ean": "7892840819286",
+            "description": "BATATA FRITA ONDULADA HELLMANNS TEMPERADA ELMA CHIPS RUFFLES PACOTE 72G",
+            "validity": "2022-10-24T00:00:00.000+00:00",
+            "quantity": 1,
+            "shop": "Loja 4",
+            "zone": "Verde",
+            "corridor": "",
+            "registrationDate": "2022-08-07T20:01:01.802539"
+        },
+        {
+            "id": "fcb138ce-d850-4e2b-82f7-bda980cca4a4",
+            "ean": "7892840253844",
+            "description": "BATATA FRITA ONDULADA ORIGINAL ELMA CHIPS RUFFLES PACOTE 57G",
+            "validity": "2022-10-10T00:00:00.000+00:00",
+            "quantity": 15,
+            "shop": "Loja 4",
+            "zone": "Verde",
+            "corridor": "1",
+            "registrationDate": "2022-08-07T20:01:50.544944"
+        },
+        {
+            "id": "0ca8c4f8-eedc-4eea-8556-e4e9dc22ad11",
+            "ean": "7898005861640",
+            "description": "SALGAD DE MILHO KI SABOR CHURRASCO 80G",
+            "validity": "2022-10-08T00:00:00.000+00:00",
+            "quantity": 7,
+            "shop": "Loja 4",
+            "zone": "Verde",
+            "corridor": "1",
+            "registrationDate": "2022-08-07T20:03:58.358049"
+        },
+        {
+            "id": "226fa1ed-f277-4673-a955-eb80b0e7f9a7",
+            "ean": "7891991015868",
+            "description": "CERVEJA PILSNER DUPLO MALTE BRAHMA LATA 350ML",
+            "validity": "2022-08-08T00:00:00.000+00:00",
+            "quantity": 1,
+            "shop": "Loja 4",
+            "zone": "Verde",
+            "corridor": "",
+            "registrationDate": "2022-08-08T17:53:38.99214"
+        },
+        {
+            "id": "04ec5004-fa48-4ddb-a4dd-ad9a3debbeb9",
+            "ean": "095188013300",
+            "description": "BEBIDA ADOÇADA FRUTAS CÍTRICAS TAMPICO GARRAFA 330ML",
+            "validity": "2022-08-08T00:00:00.000+00:00",
+            "quantity": 1,
+            "shop": "Loja 4",
+            "zone": "Verde",
+            "corridor": "",
+            "registrationDate": "2022-08-08T17:54:46.716573"
+        }
+    ]
+}
